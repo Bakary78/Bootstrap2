@@ -46,24 +46,11 @@ h1, h2, h3, h4, h5, h6, em, footer p{
 
 .fas.fa-chevron-down{
     font-size: 500%;
-}   
+}
+.card img{
+    height: 400px;
+}
 
-.container-fluidd-flexjustify-content-betweenbg-lightd-flexcol-12  {
-    margin-top: -0.75rem;
-    padding-right: 0.5px;
-    padding-left: 0.5px;
-  }
-  .col-4 {
-    padding-left: 5%;
-    padding-right: 5%;
-    height: 190px;
-    margin-top: 2%;
-  }
-  
-   
-   
-   
-   
-  
-
-
+.employee img {
+    width: 100%;
+}
